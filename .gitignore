@@ -1,0 +1,27 @@
+
+# Ignore everything
+/*
+
+# Do not ignore
+!ghostty/
+!nvim/
+!.gitignore
+
+# Plasma not ignore
+!plasma-org.kde.plasma.desktop-appletsrc
+!plasmarc
+!kglobalshortcutsrc
+!kdeglobals
+!kwinrc
+!kscreenlockerrc
+!ksplashrc
+!dolphinrc
+!konsolerc
+!spectaclerc
+!kwinrulesrc
+!kdedefaults/
+!plasma-workspace/
+
+# Ignore
+nvim/nvim-pack-lock.json
+
