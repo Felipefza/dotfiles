@@ -22,6 +22,10 @@ translucencyEnabled=true
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][00f8dc0c-08d5-4837-b594-fdb815941fbc][8e97ae4a-4ba8-4c47-9a85-419426687098]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][00f8dc0c-08d5-4837-b594-fdb815941fbc][9c7af929-6e1e-4b68-8f14-57341cdeb32f]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -31,4 +35,4 @@ Scale=1
 
 [org.kde.kdecoration2]
 library=org.kde.kwin.aurorae.v2
-theme=__aurorae__svg__MonochromeBlur
+theme=__aurorae__svg__Monochrome

@@ -4,20 +4,11 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometries-1920x1080=
-ItemGeometriesHorizontal=
-activityId=9745b2e9-42d9-4db7-9369-84c22187b9fd
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
+[Containments][2][Applets][7][Applets][22]
+plugin=org.kde.plasma.dwellclicker
 
-[Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/celestly/Pictures/Wallpapers/mountains.jpg
-SlidePaths=/nix/store/a5i0b31jwr4lmr8gy6bzf9jxgyfk838k-breeze-6.8.1/share/wallpapers/,/run/current-system/sw/share/wallpapers/
+[Containments][2][Applets][7][Applets][23]
+plugin=org.kde.merkuro.contact.applet
 
 [Containments][45]
 activityId=
@@ -55,7 +46,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][45][Applets][47][Configuration]
-popupHeight=507
+popupHeight=509
 popupWidth=651
 
 [Containments][45][Applets][47][Configuration][General]
@@ -223,7 +214,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][74][Applets][75][Configuration][General]
-launchers=preferred://filemanager,preferred://browser
+launchers=preferred://browser,preferred://filemanager
 
 [Containments][74][Applets][76]
 immutability=1
@@ -235,6 +226,21 @@ plugin=org.kde.plasma.panelspacer
 
 [Containments][74][General]
 AppletOrder=77;75;76
+
+[Containments][78]
+ItemGeometries-1920x1080=
+ItemGeometriesHorizontal=
+activityId=a0a5b72e-9f3d-436d-8563-3c950d7f9562
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][78][Wallpaper][org.kde.image][General]
+Image=file:///home/celestly/Pictures/Wallpapers/mountains.jpg
+SlidePaths=/nix/store/a5i0b31jwr4lmr8gy6bzf9jxgyfk838k-breeze-6.8.1/share/wallpapers/,/run/current-system/sw/share/wallpapers/
 
 [Containments45Appletsts][50][General]
 extraItems=org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.notifications
