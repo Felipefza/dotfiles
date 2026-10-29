@@ -109,6 +109,8 @@ AccentColor=232,203,45
 ColorScheme=Monochrome
 ColorSchemeHash=51d730535134e778fe069690ae4f1f61fb700fdc
 LastUsedCustomAccentColor=232,203,45
+TerminalApplication=ghostty --gtk-single-instance=true
+TerminalService=com.mitchellh.ghostty.desktop
 
 [Icons]
 Theme=YAMIS
