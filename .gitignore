@@ -4,7 +4,13 @@
 */
 
 # EXCEPT
-!.gitignore
 !/nvim/
+!/nvim/**
+
 !/ghostty/
+!/ghostty/**
+
 !/sway/
+!/sway/**
+
+!.gitignore

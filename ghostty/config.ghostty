@@ -1,0 +1,9 @@
+theme = Gruber Darker
+
+background-opacity = 0.8
+background-blur = true
+
+font-size = 12
+
+clipboard-read = allow
+clipboard-write = allow
