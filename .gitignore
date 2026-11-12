@@ -1,0 +1,10 @@
+
+# IGNORE ALL FILES
+*
+*/
+
+# EXCEPT
+!.gitignore
+!nvim/*
+!ghostty/*
+!sway/*
